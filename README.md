@@ -5,3 +5,4 @@
 - [ThreeJS rubix cube](https://github.com/coolidev/threejs-rubix-cube)
 - [Personal Website](https://github.com/coolidev/Angular-personal-website)
 - Epic game [UI](https://github.com/coolidev/epic-game-ui) & [Contract](https://github.com/coolidev/epic-game-nft)
+- [Memory game](https://github.com/coolidev/pairing-cards-game)
