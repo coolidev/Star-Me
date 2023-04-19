@@ -7,3 +7,4 @@
 - Epic game [UI](https://github.com/coolidev/epic-game-ui) & [Contract](https://github.com/coolidev/epic-game-nft) -> React, Web3, Solidity
 - [Memory game](https://github.com/coolidev/pairing-cards-game) -> Vue
 - [Circular wheel](https://github.com/coolidev/spinning-wheel) -> Angular
+- [JavaScript Mario Game](https://github.com/coolidev/js-mario-game) & [Demo](https://main--js-mario-game.netlify.app/) -> VanillaJS, HTML, CSS
