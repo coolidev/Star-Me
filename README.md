@@ -8,4 +8,4 @@
 - [Memory game](https://github.com/coolidev/pairing-cards-game) -> Vue
 - [Circular wheel](https://github.com/coolidev/spinning-wheel) -> Angular
 - [JavaScript Mario Game](https://github.com/coolidev/js-mario-game) & [Demo](https://main--js-mario-game.netlify.app/) -> VanillaJS, HTML, CSS
-- [Object Detection](https://github.com/coolidev/object-detection-yolo)
+- [Object Detection](https://github.com/coolidev/object-detection-yolo) -> Python
