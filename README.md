@@ -9,3 +9,4 @@
 - [Circular wheel](https://github.com/coolidev/spinning-wheel) -> Angular
 - [JavaScript Mario Game](https://github.com/coolidev/js-mario-game) & [Demo](https://main--js-mario-game.netlify.app/) -> VanillaJS, HTML, CSS
 - [Object Detection](https://github.com/coolidev/object-detection-yolo) -> Python
+- [React Hospital management](https://github.com/coolidev/react-hospital-management) -> React, JavaScript, CSS, HTML
